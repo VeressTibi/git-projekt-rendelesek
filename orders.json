@@ -4,8 +4,8 @@
         "pizza": "Hawaii",
         "extra": "Kukorica",
         "ital": "Ásványvíz",
-        "ár": 2500,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 2500,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     },
     {
@@ -13,8 +13,8 @@
         "pizza": "Songoku",
         "extra": "",
         "ital": "Pepsi",
-        "ár": 2700,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 2700,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     },
     {
@@ -22,8 +22,8 @@
         "pizza": "Húsimádó",
         "extra": "Füstölt sajt",
         "ital": "Sprite",
-        "ár": 3400,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 3400,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     },
     {
@@ -31,8 +31,8 @@
         "pizza": "Korfu",
         "extra": "Olivabogyó",
         "ital": "",
-        "ár": 3000,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 3000,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     },
     {
@@ -40,8 +40,8 @@
         "pizza": "Pikáns",
         "extra": "Jalapeno",
         "ital": "Fanta",
-        "ár": 3750,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 3750,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     },
     {
@@ -49,8 +49,8 @@
         "pizza": "Bolognai",
         "extra": "",
         "ital": "",
-        "ár": 1950,
-        "kép": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
+        "ar": 1950,
+        "kep": "https://media.istockphoto.com/id/185009286/hu/fot%C3%B3/hawaii-pizza.jpg?s=612x612&w=is&k=20&c=MdHgFEInaXBG7_ZIchC6C96yw6Bj5b-W8fyGPf4t_cg="
 
     }
 ]
